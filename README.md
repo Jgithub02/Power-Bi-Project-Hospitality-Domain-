@@ -25,6 +25,8 @@ day type =
  return
  IF(
  wkd>5,"Weekend","Weekday")```
+<br>
+
 
 
 
