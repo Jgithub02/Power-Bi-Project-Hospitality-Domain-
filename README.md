@@ -109,4 +109,17 @@ return
 
 DIVIDE(revcw,revpw,0)-1
 ```
+Here
+<br>
+RevPAR - Revenue per available room
+<br>
+DSRN - Daily sellable room nights
+<br>
+ADR - Average Daily Rate
+<br>
+DBRN - Daily Booked Room Nights 
+<br>
+DURN - Daily Utilized Room Nights
 # Data Modeling : 
+https://github.com/Jgithub02/Power-Bi-Project-Hospitality-Domain-/issues/2#issue-2354793091
+
