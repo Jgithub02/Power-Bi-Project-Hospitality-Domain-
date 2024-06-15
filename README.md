@@ -123,5 +123,10 @@ DURN - Daily Utilized Room Nights
 # Data Modeling : 
 ![data modeling ](https://github.com/Jgithub02/Power-Bi-Project-Hospitality-Domain-/assets/164842901/c8c9e514-c7e4-4bc7-94cb-5826f6387125)
 
-# DashBoard Snapshot 
+# DashBoard Snapshot : 
+![Dash Main ](https://github.com/Jgithub02/Power-Bi-Project-Hospitality-Domain-/assets/164842901/852a0b5d-e3cc-49da-a374-dd0bf8ef69e1)
+![Dash2](https://github.com/Jgithub02/Power-Bi-Project-Hospitality-Domain-/assets/164842901/91780268-6e69-40a7-ba1c-022f9eef92df)
+![Dash1](https://github.com/Jgithub02/Power-Bi-Project-Hospitality-Domain-/assets/164842901/14355935-b11a-4966-ba3b-1f414f1b5ed6)
+
+
 
