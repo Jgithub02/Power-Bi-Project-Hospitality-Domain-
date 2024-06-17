@@ -120,7 +120,7 @@ ADR - Average Daily Rate
 DBRN - Daily Booked Room Nights 
 <br>
 DURN - Daily Utilized Room Nights
-# Data Modeling : 
+# Data Modelling : 
 ![data modeling ](https://github.com/Jgithub02/Power-Bi-Project-Hospitality-Domain-/assets/164842901/c8c9e514-c7e4-4bc7-94cb-5826f6387125)
 
 # DashBoard Snapshot : 
